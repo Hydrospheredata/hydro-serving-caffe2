@@ -1,2 +1,3 @@
 # hydro-serving-caffe2
-Caffe2 runtime for hydro-serving
+
+Runtime for serving ONNX and Caffe2 models.
